@@ -1,0 +1,11 @@
+#divMsg{
+    border: 2px solid black;
+    width: 500px;
+    text-align: center;
+    /* height: 500px; */
+}
+
+.mensagem {
+    display: block;
+    margin-top: 5px;
+}
